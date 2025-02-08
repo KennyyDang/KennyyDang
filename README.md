@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennyydang&label=Profile%20views&color=0e75b6&style=flat" alt="kennyydang" /> </p>
 
-- 🔭 I’m currently working on **Vietnam Badminton Court (VBC)**
+- 🔭 I’m currently working on **AppleMart**
 
-- 🌱 I’m currently learning **C, C#, Java, NodeJS**
+- 🌱 I’m currently learning **C, C#, Java, NodeJS, React Native, Flutter**
 
 - 📫 How to reach me **dangtrungkien748@gmail.com**
 
