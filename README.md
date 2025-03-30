@@ -10,9 +10,9 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **AppleMart**  
-- 🌱 I’m currently learning **C#, Java, NodeJS, React Native, Flutter, MobileApp, PostgreSQL**  
+- 🌱 I’m currently learning **C#, Java, NodeJS, React Native, Flutter, MobileApp, PostgreSQL, Expo Go**  
 - 📫 How to reach me: **dangtrungkien748@gmail.com**  
-- ⚡ Fun fact: **No code No Bug 😎**
+- ⚡ Fun fact: **I think I'm handsome 😎**
 
 ---
 
@@ -29,6 +29,9 @@
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Go" width="50" height="50"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
