@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Im think I handsome**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.facebook.com/kennydang15/</h3>
 <p align="left">
 </p>
 
