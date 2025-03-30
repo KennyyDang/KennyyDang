@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AppleMart**
 
-- 🌱 I’m currently learning **C, C#, Java, NodeJS, React Native, Flutter**
+- 🌱 I’m currently learning **C#, Java, NodeJS, React Native, Flutter, MobileApp, PostGreSQL**
 
 - 📫 How to reach me **dangtrungkien748@gmail.com**
 
