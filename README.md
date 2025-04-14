@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **AppleMart**  
+- 🔭 I’m currently working on **Craftique**  
 - 🌱 I’m currently learning **C#, Java, NodeJS, React Native, Flutter, MobileApp, PostgreSQL, Expo Go**  
 - 📫 How to reach me: **dangtrungkien748@gmail.com**  
 - ⚡ Fun fact: **No code No bug 😎**
