@@ -45,6 +45,9 @@
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
@@ -59,6 +62,12 @@
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="50" height="50"/>
+  </a>
+  <a href="https://developer.apple.com/ios/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="iOS" width="45" height="50"/>
   </a>
 </p>
 
